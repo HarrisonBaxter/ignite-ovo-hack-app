@@ -1,7 +1,4 @@
 <svg>
-  <text id="accel-label" class="sensor-label" x="50%" y="30">accelerometer</text>
-  <text id="accel-data" class="sensor-data" x="50%" y="65">{ ... }</text>
-  <text id="bar-data" class="sensor-data" x="50%" y="145">{ ... }</text>
-  <text id="hrm-label" class="sensor-label" x="50%" y="190">heart rate</text>
-  <text id="hrm-data" class="sensor-data" x="50%" y="225">{ ... }</text>
+  <text id="flame-label" class="sensor-label" x="50%" y="30">flame</text>
+  <text id="flame-data" class="sensor-data" x="50%" y="65">{ ... }</text>
 </svg>
